@@ -53,7 +53,7 @@
 
   <body>
     <header class="custom-header">
-      <img src="{{ '/Milipatelheadshot.jpeg' | relative_url }}" alt="Mili Patel Headshot">
+<img src="{{ '/Milipatelheadshot.jpeg?v=' | append: site.github.build_revision | relative_url }}" alt="Mili Patel Headshot">
       <div class="custom-header-text">
         <h1>Mili Patel</h1>
       </div>
