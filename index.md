@@ -67,13 +67,13 @@ Analyzed historical Broadway revenue and attendance data.
 ### AI Engineer (Part-Time) — Boundary RSS
 *Jan 2026 – Present*
 
-- Reviewed existing AI codebases, system documentation, and reference materials to understand production infrastructure and model pipelines
-- Contributed to the development, configuration, and integration of foundational language models supporting baseline small language model (SLM) functionality
-- Collaborated with domain experts on core AI workflows and subsurface data principles within a development environment
-- Supported backend configuration and system integration to ensure consistency with existing AI architecture and system requirements
-- Assisted with integrated testing of AI system components in both isolated and deployed environments to validate accuracy, compatibility, and performance
-- Participated in research and evaluation of advanced foundational models and subsurface analysis techniques
-- Contributed to testing, refinement, and validation of AI systems prior to enterprise-level deployment
+- Review existing AI codebases, system documentation, and reference materials to understand production infrastructure and model pipelines
+- Contribute to the development, configuration, and integration of foundational language models supporting baseline small language model (SLM) functionality
+- Collaborate with domain experts on core AI workflows and subsurface data principles within a development environment
+- Support backend configuration and system integration to ensure consistency with existing AI architecture and system requirements
+- Assist with integrated testing of AI system components in both isolated and deployed environments to validate accuracy, compatibility, and performance
+- Participate in research and evaluation of advanced foundational models and subsurface analysis techniques
+- Contribute to testing, refinement, and validation of AI systems prior to enterprise-level deployment
 
 ---
 
