@@ -27,6 +27,7 @@
         border-radius: 12px;
         box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.2);
         object-fit: cover;
+        object-position: center 15%; /* Prevents head cutoff */
         flex-shrink: 0;
       }
 
@@ -58,18 +59,17 @@
         margin: 0 auto;
       }
 
-      /* Remove the theme’s automatic "title: Mili Patel —" line showing inside content */
+      /* Hide unwanted front-matter title line */
       .wrapper > p:first-child {
         display: none;
       }
 
-      /* Make top spacing tighter so content starts closer to header */
+      /* Reduce gap between header and content */
       main.wrapper {
         padding-top: 8px;
       }
 
-      /* Optional: slightly reduce the big first H1 in markdown so it doesn't feel repetitive
-         (You already have "Mili Patel" in the header) */
+      /* Reduce repetition of first markdown H1 */
       main.wrapper h1:first-of-type {
         margin-top: 10px;
       }
