@@ -1,45 +1,63 @@
-
 ---
 title: Mili Patel
 ---
 
-# 👋 Hi, I’m Mili Patel
+## 👋 Hi, I’m Mili Patel
 
-🎓 Hardworking and detail-focused Computer Science & Data Science student at Rutgers University. Skilled in SQL, Excel, Tableau, and Python 🖥️ with experience in cleaning data, creating databases, and building interactive dashboards 📊.
+I’m a Computer Science & Data Science undergraduate at Rutgers University (New Brunswick), graduating May 2026. My work focuses on applying data analysis, machine learning, and automation techniques to real datasets in academic, nonprofit, and startup environments.
 
-📈 Love working with real-world data to find patterns and turn complex info into clear, useful visuals. Experienced in making data pipelines, designing easy-to-read dashboards, and solving problems with data 🔍.
+My experience spans SQL- and Python-based data pipelines, dashboard development in Tableau and Power BI, and building machine learning models for prediction, segmentation, and optimization. I’m particularly interested in roles where data engineering, analytics, and ML intersect to support decision-making.
 
-💼 Looking for an internship or entry-level role in data analytics to apply my skills, gain real-world experience, and grow into a future data scientist 🚀.
+I’m currently seeking internship or entry-level opportunities in **Data Analytics, Data Science, or Machine Learning Engineering**.
 
 ---
 
 ## 🧰 Skills & Tools
 
-- **Languages**: SQL, Python, R  
-- **Data Tools**: Tableau, Excel, MySQL  
-- **Techniques**: Data Cleaning, Dashboard Design, ER Modeling, Statistical Analysis  
-- **Soft Skills**: Problem Solving, Communication, Team Collaboration
+- **Programming:** Python, SQL, R, Java  
+- **Data & ML:** Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow, PyTorch  
+- **Databases:** MySQL, PostgreSQL  
+- **Analytics & BI:** Tableau, Power BI, Excel, Power Query  
+- **Techniques:** Data Cleaning, Feature Engineering, Statistical Analysis, Model Evaluation  
+- **Cloud & Tools:** AWS, GCP (Vertex AI), Jupyter, Git, LaTeX
 
 ---
 
 ## 📁 Featured Projects
 
-### ✈️ Airline Reservation System (SQL)
-Simulates a relational airline booking system using MySQL and schema design. Includes table creation, waitlist logic, and booking reports.  
+### 🚗 RU-PATH: AI-Powered Campus Parking & Transit Chatbot
+Built an AI chatbot to provide parking and campus bus recommendations using search algorithms, constraint satisfaction modeling, and pattern recognition.  
+- Integrated permit rules, time constraints, and congestion data using Python and SQL  
+- Improved routing accuracy by ~30% through constraint-aware logic  
+- Designed conversational flows for fast, valid guidance
+
+---
+
+### 📉 Customer Churn Prediction (Machine Learning)
+Developed predictive models on a telecom churn dataset.  
+- Trained Random Forest and XGBoost models achieving ~89% accuracy  
+- Performed feature importance and regression analysis to identify churn drivers  
+- Automated preprocessing and evaluation pipelines, reducing manual analysis time by ~40%  
+- Built Tableau dashboards to visualize churn trends and model outputs
+
+---
+
+### ✈️ Airline Reservation System (SQL / Full-Stack)
+Designed a relational airline booking system with integrated analytics.  
+- Implemented schema design, booking logic, and waitlist handling in MySQL  
+- Built backend services using Python and Flask  
+- Created dashboards to analyze booking trends and system usage  
+
 🔗 [View Project on GitHub →](https://github.com/milipatel1309/Projects/tree/main/Airline_Reservation_System)
 
+---
 
+### 🎭 Broadway Revenue Dashboard (Excel + Tableau)
+Analyzed historical Broadway revenue and attendance data.  
+- Cleaned and structured multi-year datasets  
+- Built interactive dashboards to analyze ticket pricing, capacity, and show performance  
 
-### 🎭 Broadway Tableau Dashboard (Excel + Tableau)
-Built from cleaned Broadway revenue data. Visualizes trends in ticket prices, capacity, and top-performing shows across weeks using interactive Tableau dashboards.  
 🔗 [View Project on GitHub →](https://github.com/rajshah1909/Projects/tree/main/Broadway_Tableau_Dashboard)
-
-
-
-### 📊 Disney Revenue Analysis (Tableau)
-Analyzed trends in Disney movie gross revenue from 1937 – 2016. Used Tableau for bar, line, and scatter plots with calculated fields and custom metrics.  
-🔗 [View Project on GitHub →](https://github.com/rajshah1909/Projects/tree/main/Disney_Revenue_Analysis)
-
 
 ---
 
@@ -49,10 +67,10 @@ Analyzed trends in Disney movie gross revenue from 1937 – 2016. Used Tableau f
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-- 📧 **Email:** <a href="mailto:milipatel0202@gmail.com" title="Email: milipatel0202@gmail.com">milipatel0202@gmail.com</a>  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/mili-patel-15b2942a3](https://www.linkedin.com/in/mili-patel-15b2942a3/)  
-- 💻 **GitHub:** [github.com/mili131921](https://github.com/mili131921/Projects)  
-- 🌐 **Portfolio:** [milipatel1309.github.io](https://milipatel1309.github.io)  
-- 🎓 **Rutgers Handshake:** [handshake.com/profile/n4gq9k](https://rutgers.joinhandshake.com/profiles/gq9kn)
+- 📧 **Email:** milipatel0202@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/mili-patel-15b2942a3  
+- 💻 **GitHub:** https://github.com/milipatel1309  
+- 🌐 **Portfolio:** https://milipatel1309.github.io  
+- 🎓 **Rutgers Handshake:** https://rutgers.joinhandshake.com/profiles/gq9kn
